@@ -33,4 +33,4 @@ Frontend:
 Video Demo Link : https://drive.google.com/file/d/1m6T_Yncl-Y1qrBAvXTjBBandQumj-uqd/view?usp=sharing
 
 For questions or feedback, please contact:
-aprateekthakur6265@gmail.com
+prateekthakur6265@gmail.com
